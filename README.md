@@ -3,7 +3,6 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Ukraine</h3>
-<br/>
 
 <div align="center">
   <h2> My Contributions </h2>
