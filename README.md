@@ -8,5 +8,5 @@
 </p>
 <div align="center">
     <h3> My Contributions </h3>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akzestia/Akzestia/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akzestia/Akzestia/output/github-contribution-grid-snake-dark.svg" />
 </div>
