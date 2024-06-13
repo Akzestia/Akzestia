@@ -5,6 +5,6 @@
   <img src="tenor-nibutani.gif" alt="Example" width="100" height="100">
 </p>
 <div align="center">
-    <h3> My Contributions | 私の貢献 </h3>
+    <h3>&nbsp; &nbsp; &nbsp; &nbsp; 私の貢献 &nbsp; | &nbsp; My Contributions</h3>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akzestia/Akzestia/output/github-contribution-grid-snake-dark.svg" />
 </div>
