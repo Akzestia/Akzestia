@@ -4,6 +4,10 @@
 
 <h3 align="center">A passionate software developer from Ukraine</h3>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/-Vi7l_4kFjgAAAAC/anime.gif" alt="Example" width="300" height="300">
+</p>
+
 <div align="center">
   <h2> My Contributions </h2>
   <br>
