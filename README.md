@@ -15,4 +15,3 @@
     <img src="https://skillicons.dev/icons?i=qt,net,actix,react,redux,prisma,html,css,scss,flutter,neovim,arch,github,git,docker" />
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,typescript,js,java,php,lua,dart,postgres,mysql" /><br>
 </div>
-
