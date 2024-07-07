@@ -9,14 +9,15 @@
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akzestia/Akzestia/output/github-contribution-grid-snake-dark.svg" />
 </div>
 <br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=qt,net,actix,react,redux,prisma,html,css,scss,flutter,neovim,arch,github,git,docker" />
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,typescript,js,java,php,lua,dart,postgres,mysql" /><br>
 </div>
+<br/>
+<h3 align="center">⚡ Stats ⚡</h3>
 <div align=center>
-    <br/>
     <img width=415 height=230 src="https://streak-stats.demolab.com/?user=akzestia&theme=dark" /> 
     <img width=390 height=230 src="https://github-readme-stats.vercel.app/api?username=akzestia&show_icons=true&theme=transparent">
 </div>
