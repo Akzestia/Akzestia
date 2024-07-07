@@ -17,6 +17,6 @@
 </div>
 <div align=center>
     <br/>
-    <img src="https://streak-stats.demolab.com/?user=akzestia&theme=dark" /> 
-    <img src="https://github-readme-stats.vercel.app/api?username=akzestia&show_icons=true&theme=transparent">
+    <img width="300" src="https://streak-stats.demolab.com/?user=akzestia&theme=dark" /> 
+    <img width="300" src="https://github-readme-stats.vercel.app/api?username=akzestia&show_icons=true&theme=transparent">
 </div>
