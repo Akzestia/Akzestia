@@ -8,3 +8,11 @@
     <h3>&nbsp; &nbsp; &nbsp; &nbsp; 私の貢献 &nbsp; | &nbsp; My Contributions</h3>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akzestia/Akzestia/output/github-contribution-grid-snake-dark.svg" />
 </div>
+<br/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=qt,net,react,redux,prisma,html,css,scss,flutter,neovim,arch,github,git,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,typescript,js,java,php,lua,dart,postgres,mysql" /><br>
+</div>
+
