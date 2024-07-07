@@ -15,3 +15,8 @@
     <img src="https://skillicons.dev/icons?i=qt,net,actix,react,redux,prisma,html,css,scss,flutter,neovim,arch,github,git,docker" />
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,typescript,js,java,php,lua,dart,postgres,mysql" /><br>
 </div>
+<div align=center>
+    <br/>
+    <img src="https://streak-stats.demolab.com/?user=akzestia&theme=dark" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=akzestia&show_icons=true&theme=transparent">
+</div>
