@@ -13,7 +13,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=qt,net,actix,react,redux,prisma,html,css,scss,flutter,neovim,arch,github,git,docker" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,typescript,js,java,php,lua,dart,postgres,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,typescript,js,java,php,lua,dart,postgres,mysql,cmake" /><br>
 </div>
 <br/>
 <h3 align="center">⚡ Stats ⚡</h3>
