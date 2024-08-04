@@ -5,6 +5,9 @@
 - 📧 [Email](mailto:akzestia@gmail.com)
 - 💻 [GitHub](https://github.com/Akzestia)
 
+### ✅ Available for Hire
+I am currently seeking new opportunities in software development. Please feel free to reach out if you have a project or position that matches my skills and experience.
+
 ### Education
 - **Software Development Program** (3 years)
   IT Step Academy, Dnipro, Ukraine
