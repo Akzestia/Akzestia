@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=sansserif&size=25&center=true&vCenter=true&width=600&height=30&duration=2300&lines=&nbsp;&nbsp;こんにちは！👋;+私はアクゼスティアです;+ウクライナ出身の情熱的な開発者です^_^;&nbsp;&nbsp;&nbsp;Hi+There!+👋;+I'm+Akzestia;+A+passionate+developer+from+Ukraine+^_^" />
 </h3>
 <p align="center">
-  <img src="tenor-nibutani.gif" alt="Example" width="100" height="100">
+  <img src="assets/tenor-nibutani.gif" alt="Example" width="100" height="100">
 </p>
 <div align="center">
     <h3>&nbsp; &nbsp; &nbsp; &nbsp; 私の貢献 &nbsp; | &nbsp; My Contributions</h3>
@@ -16,8 +16,8 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,typescript,js,java,php,lua,dart,postgres,mysql,cmake" /><br>
 </div>
 <br/>
-<h3 align="center">⚡ Stats ⚡</h3> 
+<h3 align="center">⚡ Stats ⚡</h3>
 <div align=center>
-    <img width=415 height=230 src="https://streak-stats.demolab.com/?user=akzestia&theme=dark" /> 
+    <img width=415 height=230 src="https://streak-stats.demolab.com/?user=akzestia&theme=dark" />
     <img width=390 height=230 src="https://github-readme-stats.vercel.app/api?username=akzestia&show_icons=true&theme=transparent">
 </div>
