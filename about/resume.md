@@ -1,5 +1,5 @@
 # Oleksii Smelianskyi
-### Software Developer
+### Software Engineer
 
 ### Contact
 - 📧 [Email](mailto:akzestia@gmail.com)
