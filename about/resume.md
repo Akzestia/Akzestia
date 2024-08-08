@@ -71,6 +71,7 @@ I am currently seeking new opportunities in software development. Please feel fr
     - Qt
     - Lua
     - PostgreSQL
+    - ScyllaDb (Migrating to Scylla)
     - MsQuic (Microsoft's implementation of the QUIC protocol)
   - **Key Features** (Planned or In Progress):
     - End-to-end encryption for secure messaging
