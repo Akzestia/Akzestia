@@ -26,7 +26,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
     - UML Diagrams
     - Design Patterns (SOLID, DRY, KISS, etc.)
 
-### Skills
+### Skills 
 
 #### Programming Languages
 - C/C++
