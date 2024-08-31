@@ -45,10 +45,12 @@ I am currently seeking new opportunities in software engineering. Please feel fr
 - Node.js
 - Axum
 - Actix
+- MsQuic
 
 #### Databases
 - PostgreSQL
 - MySQL
+- ScyllaDb
 
 #### Tools & Methodologies
 - Git
