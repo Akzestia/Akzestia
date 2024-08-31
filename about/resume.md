@@ -46,6 +46,9 @@ I am currently seeking new opportunities in software engineering. Please feel fr
 - Axum
 - Actix
 - MsQuic
+- Yew
+- Tauri
+- GPUI
 
 #### Databases
 - PostgreSQL
