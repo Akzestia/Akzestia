@@ -60,7 +60,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
 
 ### Languages
 - 🇺🇦 Ukrainian (Native)
-- 🇬🇧 English (B2)
+- 🇬🇧 English (B2-C1)
 - 🇯🇵 Japanese (A1)
 - 🇩🇪 German (A1)
 - 🇵🇱 Polish (Basic understanding)
