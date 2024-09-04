@@ -79,6 +79,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
     - Lua
     - ScyllaDb
     - MsQuic (Microsoft's implementation of the QUIC protocol)
+    - NetBird (Vpn solution)
   - **Key Features** (Planned or In Progress):
     - End-to-end encryption for secure messaging
     - Cross-platform support (Windows, Linux)
