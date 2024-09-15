@@ -12,7 +12,7 @@
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akzestia/Akzestia/output/github-contribution-grid-snake-dark.svg" />
 </div>
 <br/>
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3> 
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=qt,net,actix,react,redux,prisma,html,css,scss,flutter,neovim,arch,github,git,docker" />
