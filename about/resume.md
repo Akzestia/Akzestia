@@ -70,7 +70,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
 - 🇩🇪 German (A1)
 - 🇵🇱 Polish (Basic understanding)
 
-### Projects 
+### Projects
 - **[Lunaria](https://github.com/Akzestia/Lunaria.git)** - An open-source chat application (In Development)
   - **Description**: Developing a secure, high-performance chat application with cross-platform support
   - **Technologies**:
