@@ -16,7 +16,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
   2021 - 2024 
   - Completed 3 years of intensive coursework in Software Development
   - Key areas of study:
-    - Full-Stack Web Development (React, Node.js)
+    - Full-Stack Web Development (React, Node.js, Yew(rust))
     - Mobile Development (iOS/Android)
     - Desktop Development (Windows/Linux/macOS)
     - Cloud Technologies (Azure)
