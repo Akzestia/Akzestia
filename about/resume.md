@@ -14,7 +14,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
 - **Software Development Program** (3 years)
   IT Step Academy, Dnipro, Ukraine
   2021 - 2024 
-  - Completed 3 years of intensive coursework in Software Development
+  - Completed 3 years of intensive coursework in Software Development    
   - Key areas of study:
     - Full-Stack Web Development (React, Node.js, Yew(rust), tokio-rs)
     - Mobile Development (iOS/Android)
