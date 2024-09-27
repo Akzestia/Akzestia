@@ -94,3 +94,5 @@ I am currently seeking new opportunities in software engineering. Please feel fr
     - Integrating MsQuic for optimized network communication using the QUIC protocol
     - Applying best practices in C++ for performance and security
     - Implementing VPN support for enhanced privacy and security
+
+- **[]()** - 
