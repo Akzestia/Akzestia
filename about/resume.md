@@ -5,7 +5,7 @@
 - 📧 [Email](mailto:akzestia@gmail.com)
 - 💻 [GitHub](https://github.com/Akzestia)
  
-### ✅ Available for Hire
+### ✅ Available for Hire 
 I am currently seeking new opportunities in software engineering. Please feel free to reach out if you have a project or position that matches my skills and experience.
 
 ### Education
