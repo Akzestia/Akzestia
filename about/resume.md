@@ -95,4 +95,18 @@ I am currently seeking new opportunities in software engineering. Please feel fr
     - Applying best practices in C++ for performance and security
     - Implementing VPN support for enhanced privacy and security
 
-- **[]()** - 
+- **[Azure Nexus](https://github.com/Akzestia/AzureNexus/tree/dev)** - A high-performance VPN solution (Early Development)
+  - **Description**: Developing a secure and efficient VPN solution using Rust
+  - **Technologies**:
+    - Rust
+    - Tokio (Asynchronous runtime)
+  - **Key Features** (Planned):
+    - Asynchronous networking for high performance
+    - Robust encryption protocols for secure data transmission
+    - Cross-platform compatibility (Windows, macOS, Linux)
+    - Efficient resource usage leveraging Rust's optimizations
+  - **Development Highlights**:
+    - Designing core architecture for a high-performance VPN solution
+    - Implementing asynchronous operations using Tokio for improved throughput
+    - Focusing on creating a secure and reliable network connectivity solution
+    - Developing an easy-to-use interface for seamless VPN experience
