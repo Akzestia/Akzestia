@@ -75,7 +75,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
   - **Description**: Developing a secure, high-performance chat application with cross-platform support
   - **Technologies**:
     - C/C++
-    - Qt
+    - Qt (Will be replaced with Iced)
     - Lua
     - ScyllaDb
     - MsQuic (Microsoft's implementation of the QUIC protocol)
