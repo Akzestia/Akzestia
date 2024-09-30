@@ -11,7 +11,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
 ### Education
 > ***Note:***
 > This program provides education equivalent to or higher than a Bachelor's Degree in Computer Science. It is eligible for Japanese work visa and may qualify for work visas in other countries requiring a Computer Science degree.
-- **Software Development Program** (3 years)
+- **Software Development Program** (3 years) 
   IT Step Academy, Dnipro, Ukraine
   2021 - 2024 
   - Completed 3 years of intensive coursework in Software Development    
