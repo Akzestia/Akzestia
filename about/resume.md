@@ -25,7 +25,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
     - Software Engineering (Agile, Scrum)
     - UML Diagrams
     - Design Patterns (SOLID, DRY, KISS, etc.)
-
+ 
 ### Skills 
 
 #### Programming Languages
