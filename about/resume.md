@@ -21,7 +21,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
     - Desktop Development (Windows/Linux/macOS)
     - Cloud Technologies (Azure)
     - DevOps (CI/CD, Docker)
-    - Database Design & Management (MySQL, PostgreSQL)
+    - Database Design & Management (MySQL, PostgreSQL) 
     - Software Engineering (Agile, Scrum)
     - UML Diagrams
     - Design Patterns (SOLID, DRY, KISS, etc.)
