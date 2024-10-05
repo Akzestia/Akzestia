@@ -27,7 +27,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
     - Design Patterns (SOLID, DRY, KISS, etc.)
  
 ### Skills 
-
+   
 #### Programming Languages
 - C/C++
 - Rust
