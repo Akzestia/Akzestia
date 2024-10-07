@@ -19,7 +19,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
     - Full-Stack Web Development (React, Node.js, Yew(rust), tokio-rs)
     - Mobile Development (iOS/Android)
     - Desktop Development (Windows/Linux/macOS)
-    - Cloud Technologies (Azure)
+    - Cloud Technologies (Azure) 
     - DevOps (CI/CD, Docker)
     - Database Design & Management (MySQL, PostgreSQL) 
     - Software Engineering (Agile, Scrum)
