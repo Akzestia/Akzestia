@@ -85,7 +85,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
     - Cross-platform support (Windows, Linux)
     - Wayland support for Linux
     - Real-time message delivery using the QUIC protocol
-    - Efficient data storage and retrieval with ScyllaDb
+    - Efficient data storage and retrieval with ScyllaDb 
     - Customizable themes and UI elements
     - VPN support
   - **Development Highlights**:
