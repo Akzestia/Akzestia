@@ -18,7 +18,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
   - Key areas of study:
     - Full-Stack Web Development (React, Node.js, Yew(rust), tokio-rs) 
     - Mobile Development (iOS/Android) 
-    - Desktop Development (Windows/Linux/macOS)
+    - Desktop Development (Windows/Linux/macOS) 
     - Cloud Technologies (Azure) 
     - DevOps (CI/CD, Docker)
     - Database Design & Management (MySQL, PostgreSQL) 
