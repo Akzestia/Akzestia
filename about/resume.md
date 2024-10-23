@@ -62,6 +62,7 @@ I am currently seeking new opportunities in software engineering. Please feel fr
 - Zed
 - Agile/Scrum
 - UML
+- Figma
 
 ### Languages
 - 🇺🇦 Ukrainian (Native)
@@ -110,3 +111,5 @@ I am currently seeking new opportunities in software engineering. Please feel fr
     - Implementing asynchronous operations using Tokio for improved throughput
     - Focusing on creating a secure and reliable network connectivity solution
     - Developing an easy-to-use interface for seamless VPN experience
+
+- **[Zurui]()** 
