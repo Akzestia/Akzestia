@@ -112,4 +112,38 @@ I am currently seeking new opportunities in software engineering. Please feel fr
     - Focusing on creating a secure and reliable network connectivity solution
     - Developing an easy-to-use interface for seamless VPN experience
 
-- **[Zurui](https://github.com/Akzestia/Zurui.git)** - 
+- **[Zurui](https://github.com/Akzestia/Zurui.git)** - A High-Speed Decentralized Communication Platform (Early Development)
+  - **Description**: Developing a peer-to-peer data transfer and communication solution using C++ and Qt/QML
+  - **Technologies**:
+    - C++
+    - Qt/QML Framework
+    - P2P Networking
+    - End-to-End Encryption
+  - **Key Features** (Planned):
+    - Decentralized peer-to-peer communication
+    - High-speed data transfer capabilities
+    - End-to-end encrypted messaging and file sharing
+    - Cross-platform support (Windows, macOS, Linux)
+    - User-friendly QML-based interface
+  - **Development Highlights**:
+    - Implementing robust P2P networking architecture
+    - Creating an intuitive and responsive UI using Qt/QML
+    - Developing secure data transfer protocols
+    - Optimizing for performance and reliability
+  - **Code Standards**:
+    - C++ Formatting:
+      - Google C++ style guide compliance
+      - Automated formatting using clang-format
+      - Pre-commit hooks for consistent style
+    - QML Formatting:
+      - Standardized using qmlformat
+      - Consistent styling across UI components
+  - **Project Structure**:
+    - Clean architecture separation
+    - Modular component design
+    - Clear documentation standards
+  - **Development Focus**:
+    - Security-first approach to data transmission
+    - Efficient resource utilization
+    - Seamless user experience
+    - Cross-platform compatibility
