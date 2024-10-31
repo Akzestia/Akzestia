@@ -11,6 +11,10 @@
     <h3>&nbsp; &nbsp; &nbsp; &nbsp; 私の貢献 &nbsp; | &nbsp; My Contributions</h3>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akzestia/Akzestia/output/github-contribution-grid-snake-dark.svg" />
 </div>
+<div align=center>
+    <img width=415 height=230 src="https://streak-stats.demolab.com/?user=akzestia&theme=dark" />
+    <img width=390 height=230 src="https://github-readme-stats.vercel.app/api?username=akzestia&show_icons=true&theme=transparent">
+</div>
 <br/>
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3> 
 <br/>
@@ -18,11 +22,5 @@
     <img src="https://skillicons.dev/icons?i=qt,net,actix,react,redux,prisma,html,css,scss,flutter,neovim,arch,github,git,docker" />
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,typescript,js,java,php,lua,dart,postgres,mysql,cmake" /><br>
 </div>
-<br/>
-<h3 align="center">⚡ Stats ⚡</h3>
-<div align=center>
-    <img width=415 height=230 src="https://streak-stats.demolab.com/?user=akzestia&theme=dark" />
-    <img width=390 height=230 src="https://github-readme-stats.vercel.app/api?username=akzestia&show_icons=true&theme=transparent">
-</div>
- 
+
  
