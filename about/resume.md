@@ -25,8 +25,8 @@ Seeking software engineering opportunities. Open to new projects - let’s conne
 ---
 
 ### 🛠️ Skills
-**Languages**: C/C++, Rust, C#, JavaScript, TypeScript, Java, PHP  
-**Frameworks**: .NET Core, React, Qt, Node.js, Tauri, Yew  
+**Languages**: C/C++, Rust, C#, TypeScript, Java, PHP  
+**Frameworks**: .NET Core, React, Qt, Next.js, Tauri, Yew  
 **Databases**: PostgreSQL, MySQL, ScyllaDB  
 **Tools**: Git, Docker, CMake, Agile, UML, Figma, Zed
 
