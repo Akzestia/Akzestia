@@ -37,7 +37,7 @@ Seeking software engineering opportunities. Open to new projects - let’s conne
 **[Lunaria](https://github.com/Akzestia/Lunaria.git)** - Secure, cross-platform chat app (C++, Qt, MsQuic, ScyllaDb)  
 - End-to-end encryption, real-time messaging, customizable themes
 
-**[Zurui](https://github.com/Akzestia/Zurui.git)** - High-speed decentralized communication platform (C++, Qt/QML, MsQuic, WireGuard)  
+**[Zurui](https://github.com/Akzestia/Zurui.git)** - High-speed decentralized communication platform (C++, Qt/QML, CUDA, BlockChain)  
 - Peer-to-peer, encrypted data transfer, cross-platform support
 
 ---
