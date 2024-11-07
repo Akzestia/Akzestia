@@ -9,8 +9,8 @@
 
 ---
 
-### ✅ Available for Hire
-Seeking software engineering opportunities. Open to new projects - let’s connect!
+### ❌ Not Available for Hire
+Currently focused on ongoing projects. Open to connecting for future opportunities!
 
 ---
 
