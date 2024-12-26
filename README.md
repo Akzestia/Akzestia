@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=sansserif&size=25&center=true&vCenter=true&width=600&height=30&duration=2300&lines=&nbsp;&nbsp;こんにちは！👋;+私はアクゼスティアです;+ウクライナ出身の情熱的な開発者です^_^;&nbsp;&nbsp;&nbsp;Hi+There!+👋;+I'm+Akzestia;+A+passionate+developer+from+Ukraine+^_^" />
 </h3>           
 <p align="center">                                                      
-  <img src="assets/tenor-nibutani.gif" alt="Example" width="100" height="100">      
+  <img src="assets/tenor-nibutani.gif" alt="Example" width="100" height="100">       
 </p>       
 <div align="center">        
     <a href="https://github.com/Akzestia/Akzestia/blob/main/about/resume.md">私の履歴書 | My resume</a>
