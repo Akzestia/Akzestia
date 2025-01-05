@@ -3,7 +3,7 @@
 </h3>                     
 <p align="center">                  
   <img src="assets/tenor-nibutani.gif" alt="Example" width="100" height="100">                        
-</p>                       
+</p>                        
 <div align="center">                               
     <a href="https://github.com/Akzestia/Akzestia/blob/main/about/resume.md">私の履歴書 | My resume</a>      
 </div>        
