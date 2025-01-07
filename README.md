@@ -5,7 +5,7 @@
   <img src="assets/tenor-nibutani.gif" alt="Example" width="100" height="100">                         
 </p>                           
 <div align="center">                               
-    <a href="https://github.com/Akzestia/Akzestia/blob/main/about/resume.md">私の履歴書 | My resume</a>      
+    <a href="https://github.com/Akzestia/Akzestia/blob/main/about/resume.md">私の履歴書 | My resume</a>       
 </div>             
 <div align="center">                         
     <h3>&nbsp; &nbsp; &nbsp; &nbsp; 私の貢献 &nbsp; | &nbsp; My Contributions</h3>  
