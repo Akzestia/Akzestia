@@ -7,7 +7,7 @@
 <div align="center">                               
     <a href="https://github.com/Akzestia/Akzestia/blob/main/about/resume.md">私の履歴書 | My resume</a>         
 </div>               
-<div align="center">                         
+<div align="center">                          
     <h3>&nbsp; &nbsp; &nbsp; &nbsp; 私の貢献 &nbsp; | &nbsp; My Contributions</h3>  
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akzestia/Akzestia/output/github-contribution-grid-snake-dark.svg" />
 </div>
