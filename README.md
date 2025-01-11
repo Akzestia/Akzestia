@@ -16,7 +16,7 @@
     <img width=390 height=230 src="https://github-readme-stats.vercel.app/api?username=akzestia&show_icons=true&theme=transparent"> 
 </div>  
            
-<!-- <h3 align="center">⚒️ Arch <3 ⚒️</h3> 
+<!-- <h3 align="center">⚒️ Arch <3 ⚒️</h3>  
 <br/> 
 <div align="center">
     <img width=180 height=180 src="https://skillicons.dev/icons?i=arch" />
