@@ -1,4 +1,4 @@
-<h3>Rust & C++ are the best <3</h3>
+<h3>RustとC++は最高 <3</h3>
  
  
   
