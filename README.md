@@ -4,4 +4,4 @@
   <li>Windows -> Arch Linux</li>  
   <li>TypeScript -> Rust</li>
   <li>React -> Leptos</li>
-</ul
+</ul>
