@@ -1,10 +1,6 @@
 <h1>RustとC++は最高 <3</h1>
 
-<ul>
-  <li>Windows -> Arch Linux</li>  
-  <li>TypeScript -> Rust</li>
-  <li>React -> Leptos</li>
-</ul>
+[![](https://skillicons.dev/icons?i=arch,rust,zig,cpp,ts)](https://skillicons.dev)
 
 <h1>RFC <3</h1>
 
