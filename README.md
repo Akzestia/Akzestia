@@ -1,4 +1,4 @@
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;RustとC++は最高 <3</h3>
+<h1>RustとC++は最高 <3</h1>
 
 <ul>
   <li>Windows -> Arch Linux</li>  
