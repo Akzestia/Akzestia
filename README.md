@@ -6,6 +6,7 @@
 <br/>
 [![](https://skillicons.dev/icons?i=figma,html,scss)](https://skillicons.dev)
 
+<h3>C++ネイティブレンダリングQtとLeptos-rsは最も優れたUIフレームワークです</h3>
 
 <details>
   <summary>rfc 9000-9009</summary>
