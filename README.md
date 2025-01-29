@@ -2,8 +2,9 @@
 
 <br/>
 
-[![](https://skillicons.dev/icons?i=arch,rust,zig,cpp,ts)](https://skillicons.dev)
-
+[![](https://skillicons.dev/icons?i=arch,zig,bash,rust,cpp)](https://skillicons.dev)
+<br/>
+[![](https://skillicons.dev/icons?i=figma,html,scss)](https://skillicons.dev)
 <h1>RFC <3</h1>
 
 &nbsp;&nbsp;&nbsp;[RFC-9000](https://www.rfc-editor.org/rfc/rfc9000.html)</br>
