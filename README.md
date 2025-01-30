@@ -2,7 +2,7 @@
 
 <br/>
 
-[![](https://skillicons.dev/icons?i=arch,zig,bash,rust,cpp)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=arch,zig,bash,rust,ts,cpp)](https://skillicons.dev)
 <br/>
 [![](https://skillicons.dev/icons?i=figma,html,scss)](https://skillicons.dev)
 
