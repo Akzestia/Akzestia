@@ -17,5 +17,5 @@
 - [ ] [RFC-9002](https://www.rfc-editor.org/rfc/rfc9002.html)</br>
 - [ ] [RFC-9003](https://www.rfc-editor.org/rfc/rfc9003.html)</br>
 - [ ] [RFC-9008](https://www.rfc-editor.org/rfc/rfc9008.html)</br>
-- [ ] [RFC-9009](https://www.rfc-editor.org/rfc/rfc9009.html)</br>
+- [X] [RFC-9009](https://www.rfc-editor.org/rfc/rfc9009.html)</br>
 </details>
