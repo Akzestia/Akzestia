@@ -9,7 +9,7 @@
 <h3>C++ネイティブレンダリングQtとLeptos-rsは最も優れたUIフレームワークです</h3>
 
 <details>
-  <summary>RFC & QUIC</summary>
+  <summary>RFCとQUIC</summary>
   <h1>RFC <3</h1>
 
 - [X] [RFC-9000](https://www.rfc-editor.org/rfc/rfc9000.html)</br>
