@@ -9,7 +9,7 @@ w<h1>RustとC++は最高 <3</h1>
 <h3>C++ネイティブレンダリングQtとLeptos-rsは最も優れたUIフレームワークです</h3>
 
 <details>
-  <summary>rfc 9000-9009</summary>
+  <summary>RFC & QUIC</summary>
   <h1>RFC <3</h1>
 
 - [X] [RFC-9000](https://www.rfc-editor.org/rfc/rfc9000.html)</br>
@@ -19,7 +19,8 @@ w<h1>RustとC++は最高 <3</h1>
 - [ ] [RFC-9008](https://www.rfc-editor.org/rfc/rfc9008.html)</br>
 - [X] [RFC-9009](https://www.rfc-editor.org/rfc/rfc9009.html)</br>
 
-  <h1>QUIC Reverso</h1>
+<h1>QUIC Reverso</h1>
+
 - [X] [Reverso for the QUIC protocol](https://www.ietf.org/archive/id/draft-frochet-quicwg-reverso-for-quic-00.html)</br>
 
 </details>
