@@ -1,5 +1,4 @@
 <h1>RustとC++は最高 <3</h1>
-
 <br/>
 
 [![](https://skillicons.dev/icons?i=arch,zig,bash,rust,ts,cpp)](https://skillicons.dev)
