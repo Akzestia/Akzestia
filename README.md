@@ -5,6 +5,8 @@
 <br/>
 [![](https://skillicons.dev/icons?i=figma,html,scss,wasm)](https://skillicons.dev)
 
+### 私を雇う理由 ⬇️
+
 <img src="assets/1liner.png"/>
 
 <h3>C++ネイティブレンダリングQtとLeptos-rsは最も優れたUIフレームワークです</h3>
