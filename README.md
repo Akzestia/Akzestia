@@ -14,3 +14,5 @@
 データベース&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ScyllaDb](https://www.scylladb.com/) <br/>
 フロントエンド&nbsp;&nbsp;&nbsp;[SolidJs](https://www.solidjs.com/), [Leptos](https://www.leptos.dev/), [Yew](https://yew.rs/), [Qt](https://www.qt.io/)<br/>
 バックエンド&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Actix](https://actix.rs/), [gRPC](https://grpc.io/), [QUIC](https://quicwg.org/)
+
+### Vim motions <3
