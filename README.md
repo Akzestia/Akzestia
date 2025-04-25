@@ -11,6 +11,6 @@
 <img src="assets/1liner.png"/>
 
 
-### Vim motions <3
+### Vim motions (Inverse J K) <3
 
 <img width=1100 src="https://rawgit.com/darcyparker/1886716/raw/vimModeStateDiagram.svg"/>
