@@ -12,3 +12,5 @@
 
 
 ### Vim motions <3
+
+<img width=1100 src="https://rawgit.com/darcyparker/1886716/raw/vimModeStateDiagram.svg"/>
