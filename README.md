@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  ###  &nbsp; Stats ^_^ &nbsp;
+  ### Stats ^_^
 
 </div>
 
