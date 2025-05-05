@@ -6,8 +6,6 @@
 <br/>
 [![](https://skillicons.dev/icons?i=figma,html,scss,wasm)](https://skillicons.dev)
 
-### Vim motions <3
-
 ------------------------------------------------------------------------------------------
 
 <div align="center">
