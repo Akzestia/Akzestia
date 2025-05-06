@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  ### Stats ^_^
+  ### Stats だよ ^_^
 
 </div>
 
