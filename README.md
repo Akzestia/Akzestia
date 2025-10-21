@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="profile-3d-contrib/profile-night-view.svg" />
+<img src="profile-3d-contrib/profile-south-season-animate.svg" />
 
 ------------------------------------------------------------------------------------------
 
