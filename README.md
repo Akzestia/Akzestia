@@ -6,7 +6,6 @@
 <br/>
 [![](https://skillicons.dev/icons?i=figma,html,scss,wasm)](https://skillicons.dev)
 
-------------------------------------------------------------------------------------------
 
 <div align="center">
   
@@ -21,6 +20,3 @@
 </div>
 
 <img src="profile-3d-contrib/profile-south-season-animate.svg" />
-
-------------------------------------------------------------------------------------------
-
