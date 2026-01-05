@@ -1,7 +1,5 @@
 # アクゼスティア
 
-> WW3 Almost there ^+^
-
 ### Best Tools & Languages
 
 [![](https://skillicons.dev/icons?i=arch,zig,bash,rust,ts,cpp)](https://skillicons.dev)
