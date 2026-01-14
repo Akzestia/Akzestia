@@ -20,3 +20,8 @@
 </div>
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" />
+
+### Literature
+
+- [x] C++ Concurrency in Action, by Anthony Williams
+- [x] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, by Martin Kleppmann 
