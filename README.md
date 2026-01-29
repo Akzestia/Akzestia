@@ -13,6 +13,7 @@ UI/UX Designer · 2D Artist
 <br/>
 [![](https://skillicons.dev/icons?i=figma,html,scss,wasm)](https://skillicons.dev)
 
+-------
 
 <div align="center">
   
