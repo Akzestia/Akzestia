@@ -7,6 +7,8 @@ Tokyo, Japan
 Systems, Networking && Graphics Engineer  
 UI/UX Designer · 2D Artist
 
+Salary expectations: high ^^
+
 ### Best Tools & Languages
 
 [![](https://skillicons.dev/icons?i=arch,zig,bash,rust,ts,cpp)](https://skillicons.dev)
