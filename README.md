@@ -9,7 +9,7 @@ UI/UX Designer · 2D Artist
 
 Salary expectations: high ^^
 
-Head of R&D @[wanime.io](https://github.com/TimeTo10X)
+Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
 ### Best Tools & Languages
 
