@@ -9,6 +9,8 @@ UI/UX Designer · 2D Artist
 
 Salary expectations: high ^^
 
+Head of R&D @TTTX
+
 ### Best Tools & Languages
 
 [![](https://skillicons.dev/icons?i=arch,zig,bash,rust,ts,cpp)](https://skillicons.dev)
