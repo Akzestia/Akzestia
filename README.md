@@ -13,7 +13,7 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
 ### Best Tools & Languages
 
-[![](https://skillicons.dev/icons?i=arch,neovim,zig,bash,rust,ts,cpp)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=arch,neovim,bash,zig,rust,ts,cpp)](https://skillicons.dev)
 <br/>
 [![](https://skillicons.dev/icons?i=figma,html,scss,wasm)](https://skillicons.dev)
 
