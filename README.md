@@ -37,3 +37,7 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
 - [x] C++ Concurrency in Action, by Anthony Williams
 - [x] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, by Martin Kleppmann 
+
+### Papers
+
+- [MP-RDMA](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/07/MP-RDMA-NSDI18.pdf)
