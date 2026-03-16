@@ -41,3 +41,7 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 ### Papers
 
 - [MP-RDMA](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/07/MP-RDMA-NSDI18.pdf)
+
+### NVI<3M
+
+- https://youtu.be/xE9W9Ghe4Jk?si=3k-J9H4Bd42PPAEE&t=291
