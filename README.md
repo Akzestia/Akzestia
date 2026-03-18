@@ -15,7 +15,7 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
 [![](https://skillicons.dev/icons?i=arch,neovim,bash,rust,ts,cpp)](https://skillicons.dev)
 <br/>
-[![](https://skillicons.dev/icons?i=figma,html,scss,wasm)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=deno,html,scss,wasm)](https://skillicons.dev)
 
 -------
 
