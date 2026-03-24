@@ -1,6 +1,6 @@
 # アクゼスティア
 
-### About 
+### About
 
 Tokyo, Japan
 
