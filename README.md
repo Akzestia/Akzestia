@@ -4,7 +4,7 @@
 
 Tokyo, Japan
 
-Systems, Networking && Graphics Engineer  
+Systems, Networking & Graphics Engineer  
 UI/UX Designer · 2D Artist
 
 Salary expectations: high ^^
