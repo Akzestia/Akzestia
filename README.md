@@ -44,4 +44,4 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
 ### NVI<3M
 
-- https://youtu.be/xE9W9Ghe4Jk?si=3k-J9H4Bd42PPAEE&t=291
+- [Me when I see anyone using vs code xD](https://youtu.be/xE9W9Ghe4Jk?si=3k-J9H4Bd42PPAEE&t=291)
