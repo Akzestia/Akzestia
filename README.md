@@ -45,3 +45,10 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 ### NVI<3M
 
 - [Me when I see anyone using vs code xD](https://youtu.be/xE9W9Ghe4Jk?si=3k-J9H4Bd42PPAEE&t=291)
+
+------------------------------------
+
+> [!NOTE]
+> Thx to AI nothing fcking works in 2026 ^_^ </br>
+> 2027 Predictions:
+>  - Perfect uptime 88.8% instead of 99.9% (no one will give a fck anyway xD)
