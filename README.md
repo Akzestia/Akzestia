@@ -52,3 +52,8 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 > Thx to AI nothing fcking works in 2026 ^_^ </br>
 > 2027 Predictions:
 >  - Perfect uptime 88.8% instead of 99.9% (no one will give a fck anyway xD)
+
+------------------------------------
+
+> [!NOTE]
+> MacOS keeps making me nauseous, I wanna go back to Arch ~_~
