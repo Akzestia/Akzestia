@@ -56,4 +56,4 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 ------------------------------------
 
 > [!NOTE]
-> MacOS keeps making me nauseous, I wanna go back to Arch ~_~
+> MacOS keeps making me nauseous, I wanna go back to Arch \~_\~
