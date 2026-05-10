@@ -62,3 +62,8 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
 > [!NOTE]
 > More and more negative loc every day == Efficiency xD
+
+------------------------------------
+
+> [!TIP]
+> WAnime goes live **Summer 2026?** ^_^
