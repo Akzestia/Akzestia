@@ -41,6 +41,7 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 ### Papers
 
 - [MP-RDMA](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/07/MP-RDMA-NSDI18.pdf)
+- [MoQ Lite](https://www.ietf.org/archive/id/draft-lcurley-moq-lite-04.html)
 
 ### NVI<3M
 
