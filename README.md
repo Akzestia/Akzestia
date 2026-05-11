@@ -35,8 +35,8 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
 ### Literature
 
-- [x] C++ Concurrency in Action, by Anthony Williams
-- [x] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, by Martin Kleppmann 
+- C++ Concurrency in Action, by Anthony Williams
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, by Martin Kleppmann 
 
 ### Papers
 
