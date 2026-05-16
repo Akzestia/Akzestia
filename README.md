@@ -68,3 +68,9 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
 > [!TIP]
 > WAnime goes live **Summer 2026?** ^_^
+
+
+------------------------------------
+
+> [!TIP]
+> waRPC `Go` & `Rust` bindings go brrrrrrr
