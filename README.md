@@ -77,5 +77,10 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 ------------------------------------
 
 > [!TIP]
+> Catholic Church got AI psychosis. xD -> [Catholic Church x Anthropic](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
+
+------------------------------------
+
+> [!TIP]
 > waRPC `Go` & `Rust` bindings go brrrrrrr </br>
 > (way betta than gRPC ^_^)
