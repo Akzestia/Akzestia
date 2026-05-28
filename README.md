@@ -86,5 +86,15 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 ------------------------------------
 
 > [!TIP]
+> ddw
+
+> [!TIP]
 > Catholic Church got AI psychosis. xD -> [Catholic Church x Anthropic](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical) </br>
 > I wonder how much money Anthropic paid them to fuel the AI bubble xD
+
+------------------------------------
+
+> [!TIP]
+> PhD-level intelligence at its greatest :x </br>
+> <img width="197" height="171" alt="image" src="https://github.com/user-attachments/assets/16c0b3cb-100c-4d08-af75-f4715cff790c" />
+
