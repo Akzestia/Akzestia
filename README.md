@@ -100,3 +100,8 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 > [!TIP]
 > Web Transport in Odin goes brrrrrrrrraaaaa.
 
+------------------------------------
+
+> [!TIP]
+> Native IOS support let's go! ^_^
+
