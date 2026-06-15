@@ -103,5 +103,5 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 ------------------------------------
 
 > [!TIP]
-> Native IOS support let's go! ^_^
+> Native iOS support let's go! ^_^
 
