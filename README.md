@@ -124,3 +124,6 @@ auto do_smth() -> void {
     // log();
 }
 ```
+
+3 hours later...
+It's working ^^
