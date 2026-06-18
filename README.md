@@ -105,3 +105,22 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 > [!TIP]
 > Native iOS support let's go! ^_^
 
+------------------------------------
+
+I love wait free programming <3
+
+```cpp
+// Shit works fine yupi ^^
+auto do_smth() -> void {
+    log();
+    log();
+}
+```
+
+```cpp
+// You have a race condition in your 30k+ lines of pure c++ withcraft ^^
+auto do_smth() -> void {
+    // log();
+    // log();
+}
+```
