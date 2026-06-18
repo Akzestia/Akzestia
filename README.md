@@ -112,8 +112,8 @@ I love wait free programming <3
 ```cpp
 // Shit works fine yupi ^^
 auto do_smth() -> void {
-    log();
-    log();
+    log(); // ~2μs
+    log(); // ~2μs
 }
 ```
 
