@@ -129,3 +129,7 @@ auto do_smth() -> void {
 It's working ^^
 
 2m/qps was worth it tho xD
+
+------------------------------------
+
+100% mutex free ^~^
