@@ -1,4 +1,4 @@
-# アクゼスティア
+ # アクゼスティア
 
 ### About
 
@@ -133,3 +133,7 @@ It's working ^^
 ------------------------------------
 
 100% mutex free ^~^
+
+------------------------------------
+
+Please keep your slop AI agents away from my handcoded c++ cathedral ^_^
