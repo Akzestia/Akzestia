@@ -13,13 +13,9 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
 ### Best Tools & Languages
 
-[![](https://skillicons.dev/icons?i=arch,neovim,bash,rust,go,ts,cpp)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=arch,neovim,bash,rust,ts,cpp)](https://skillicons.dev)
 <br/>
 [![](https://skillicons.dev/icons?i=qt,deno,html,scss,wasm)](https://skillicons.dev)
-
->
-> [![](https://skillicons.dev/icons?i=zig)](https://skillicons.dev) </br>
-> I should also probably learn Zig ^_^ 
 
 -------
 
