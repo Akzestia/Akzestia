@@ -68,3 +68,7 @@ Please keep your slop AI agents away from my handcoded c++ cathedral ^_^
 ------------------------------------
 
 Next thingy on TODO list -> Custom UI framework in c++ ^^
+
+------------------------------------
+
+Need $ for Anime Licenses だよ　^_^
