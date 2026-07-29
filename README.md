@@ -68,3 +68,7 @@ Next thingy on TODO list -> Custom UI framework in c++ ^^
 ------------------------------------
 
 Need $ for Anime Licenses だよ　^_^
+
+------------------------------------
+
+I just ascended my c++ witchcraft to a new level だよ ^_^
