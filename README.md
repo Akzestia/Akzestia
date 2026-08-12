@@ -2,6 +2,8 @@
 
 ### About
 
+NeoVim + Split keyboard > Agent Slop. ^_^
+
 Tokyo, Japan
 
 Systems, Networking & Graphics Engineer  
