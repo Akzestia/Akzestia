@@ -13,6 +13,8 @@ Salary expectations: high ^^
 
 Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
+~~Rewrite c++ to rust~~ Rewrite rust to c++ ^_^
+
 ### Best Tools & Languages
 
 [![](https://skillicons.dev/icons?i=arch,neovim,bash,rust,ts,cpp)](https://skillicons.dev)
