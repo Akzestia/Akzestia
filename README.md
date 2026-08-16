@@ -52,25 +52,3 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 ### NVI<3M
 
 - [Me when I see anyone using vs code xD](https://youtu.be/xE9W9Ghe4Jk?si=3k-J9H4Bd42PPAEE&t=291)
-
-### Random stuff
-
-------------------------------------
-
-100% mutex free ^~^
-
-------------------------------------
-
-Please keep your slop AI agents away from my handcoded c++ cathedral ^_^
-
-------------------------------------
-
-Next thingy on TODO list -> Custom UI framework in c++ ^^
-
-------------------------------------
-
-Need $ for Anime Licenses だよ　^_^
-
-------------------------------------
-
-I just ascended my c++ witchcraft to a new level だよ ^_^
