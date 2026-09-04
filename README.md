@@ -57,4 +57,4 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
 ーーー
 
-8月31 [@wanime](https://wanime.io)
+8月31 [@wanime](https://wanime.io) (delayed due to an unplanned side quest だよ xD)
