@@ -15,6 +15,8 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
 ~~Rewrite c++ to rust~~ Rewrite rust to c++ ^_^
 
+We got "Son of Anton" before GTA 6 :DDD -> https://github.com/google/adk-python/commit/063278a
+
 ### Best Tools & Languages
 
 [![](https://skillicons.dev/icons?i=arch,neovim,bash,rust,ts,cpp)](https://skillicons.dev)
