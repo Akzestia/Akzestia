@@ -58,3 +58,7 @@ It's time to rewrite [moq](https://github.com/moq-dev/moq) in modern c++ ^^
 ### NVI<3M
 
 - [Me when I see anyone using vs code xD](https://youtu.be/xE9W9Ghe4Jk?si=3k-J9H4Bd42PPAEE&t=291)
+
+### Random 
+
+Opus 5.5 is lwk dogshit ^_^
