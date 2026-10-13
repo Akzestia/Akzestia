@@ -19,6 +19,8 @@ We got "Son of Anton" before GTA 6 :DDD -> https://github.com/google/adk-python/
 
 It's time to rewrite [moq](https://github.com/moq-dev/moq) in modern c++ ^^ (Half way there btw -> https://wanime.io/moql)
 
+Native c++ MoQ client goes brrrrr ^_^
+
 ### Best Tools & Languages
 
 [![](https://skillicons.dev/icons?i=arch,neovim,bash,rust,ts,cpp)](https://skillicons.dev)
