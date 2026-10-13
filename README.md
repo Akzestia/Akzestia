@@ -62,3 +62,5 @@ It's time to rewrite [moq](https://github.com/moq-dev/moq) in modern c++ ^^
 ### Random 
 
 Opus 5.5 is lwk dogshit ^_^
+
+Get rewritten in C++ boiii!
