@@ -17,7 +17,7 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
 We got "Son of Anton" before GTA 6 :DDD -> https://github.com/google/adk-python/commit/063278a
 
-It's time to rewrite [moq](https://github.com/moq-dev/moq) in modern c++ ^^ 「　Half way there btw -> https://wanime.io/moql　」
+It's time to rewrite [moq](https://github.com/moq-dev/moq) in modern c++ ^^ (Half way there btw -> https://wanime.io/moql)
 
 ### Best Tools & Languages
 
