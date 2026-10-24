@@ -9,7 +9,7 @@ Tokyo, Japan
 Systems, Networking & Graphics Engineer  
 UI/UX Designer · 2D Artist
 
-Salary expectations: high ^^
+Salary expectations: xhigh ^^
 
 Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 
