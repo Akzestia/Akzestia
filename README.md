@@ -16,6 +16,7 @@ Principal Engineer & Head of R&D @ [wanime.io](https://github.com/TimeTo10X)
 ~~Rewrite c++ to rust~~ Rewrite rust to c++ ^_^
 
 We got "Son of Anton" before GTA 6 :DDD -> https://github.com/google/adk-python/commit/063278a
+> https://www.youtube.com/watch?v=m0b_D2JgZgY
 
 It's time to rewrite [moq](https://github.com/moq-dev/moq) in modern c++ ^^ (Half way there btw -> https://wanime.io/moql)
 
