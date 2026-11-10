@@ -67,3 +67,5 @@ Native c++ MoQ client goes brrrrr ^_^
 Opus 5.5 is lwk dogshit ^_^
 
 Get rewritten in C++ boiii!
+
+Fable 5.2, useless 
